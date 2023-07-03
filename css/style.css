@@ -1,0 +1,50 @@
+.navbar {
+    background-color: #91CDD9;
+    border-radius: 0 0 70px 70px;
+    display: flex;
+}
+.navbar a {
+    font-weight: bold;
+    padding-left: 8px;
+}
+.form-control {
+    background-color: #91CDD9;
+}
+
+.footer {
+    background-color: #91CDD9;
+    border-radius: 70px 70px 0px 0px;
+
+}
+
+.btn-google {
+    background-color: #111827;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.btn-facebook {
+    background-color: #111827;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.btn-acessar {
+    background-color: #111827;
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.btn-createacc {
+    background-color: #91CDD9;
+    border-radius: 70px 0px 0px 0px;
+    justify-content: space-between;
+    display: inline;
+    margin: 0;
+    border-right: 1px solid black;
+}
+
+.btn-cantlog {
+    background-color: #91CDD9;
+    border-radius: 0px 70px 0px 0px;
+    justify-content: space-between;
+    border-left: 1px solid black;
+}
